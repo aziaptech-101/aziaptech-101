@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arbaz Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Arbaz Khan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aziaptech-101&label=Profile%20views&color=0e75b6&style=flat" alt="aziaptech-101" /> </p>
